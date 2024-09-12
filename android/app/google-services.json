@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428998127777",
+    "project_id": "gameing-app-dc5d5",
+    "storage_bucket": "gameing-app-dc5d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428998127777:android:2ae99182b8da04660ec0e0",
+        "android_client_info": {
+          "package_name": "com.example.gamming"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwyAvF48WTHQPJmAu9DALgxvC_UZqcQ_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

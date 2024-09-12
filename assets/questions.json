@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answers": [
+      {"id": 1, "answer": "Paris"},
+      {"id": 2, "answer": "London"},
+      {"id": 3, "answer": "Berlin"},
+      {"id": 4, "answer": "Rome"}
+    ],
+    "correctAnswerId": 1
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "answers": [
+      {"id": 1, "answer": "Earth"},
+      {"id": 2, "answer": "Mars"},
+      {"id": 3, "answer": "Jupiter"},
+      {"id": 4, "answer": "Saturn"}
+    ],
+    "correctAnswerId": 2
+  },
+  {
+    "question": "Who wrote 'Hamlet'?",
+    "answers": [
+      {"id": 1, "answer": "William Shakespeare"},
+      {"id": 2, "answer": "Charles Dickens"},
+      {"id": 3, "answer": "Leo Tolstoy"},
+      {"id": 4, "answer": "Mark Twain"}
+    ],
+    "correctAnswerId": 1
+  }
+]
